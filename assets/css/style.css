@@ -1,0 +1,555 @@
+header {
+    padding-bottom: 10%;
+    position: relative;
+}
+
+header .navbar-nav .nav-link {
+    margin-left: 20px;
+}
+
+header .nav-2 {
+    position: absolute;
+    right: 15%;
+}
+
+header .left-dots {
+    position: absolute;
+    left: -95px;
+    top: 30%;
+}
+
+header .middle-circle img {
+    position: absolute;
+    top: 62px;
+    left: 38%
+}
+
+header .triangle-shape img {
+    position: absolute;
+    top: 99px;
+    left: 40%;
+}
+
+header .egg-img-big {
+    position: absolute;
+    left: 60%;
+    top: -35px;
+    z-index: -1;
+}
+
+header .egg-description {
+    position: absolute;
+    top: 60%;
+    left: 50%;
+    z-index: 1;
+}
+
+header .egg-description p {
+    margin: 0;
+    border-radius: 15px;
+    width: 369px;
+    background-color: #F2F3F5;
+    padding: 15px 22px 15px 144px;
+    font-size: 20px;
+    line-height: 22px;
+    font-weight: 400;
+}
+
+header .egg-description .egg-img {
+    position: absolute;
+    z-index: 10;
+    left: 25px;
+    top: -11px;
+}
+
+header .right-stair {
+    position: absolute;
+    top: 64px;
+    right: 10%;
+}
+
+header .right-dotted-circle {
+    position: absolute;
+    top: 79px;
+    right: 5%;
+}
+
+.search-section {
+    padding-top: 10%;
+    position: relative;
+    padding-bottom: 140px;
+}
+
+.search-section .left-blue-circle {
+    position: absolute;
+    top: 200px;
+    left: 3%;
+}
+
+.search-section .imgs {
+    position: relative;
+}
+
+.search-section .imgs .green-dot {
+    position: absolute;
+    top: 10px;
+    left: -30px;
+}
+
+.search-section .imgs .line-circle {
+    position: absolute;
+    top: -10px;
+    z-index: 1;
+    left: 5%;
+}
+
+.search-section .burger-img {
+    position: absolute;
+    top: 20px;
+    left: 20%;
+}
+
+.search-section .heading h1 {
+    color: #212121;
+    font-size: 61px;
+    margin: auto;
+    margin-top: 50px;
+    line-height: 57px;
+    font-weight: bold;
+}
+
+.search-section .text p {
+    font-size: 18px;
+    line-height: 18px;
+    margin: auto;
+    margin-top: 10px;
+    margin-bottom: 30px;
+}
+
+.search-section .search-box {
+    position: relative;
+}
+
+.search-section .search-box .search {
+    padding: 31px 39px;
+    background-color: #F2F3F5;
+    border-radius: 15px;
+    border: none;
+}
+
+.search-section .search-box .btn {
+    font-size: 20px;
+    background-color: #8FC539;
+    padding: 14px 65px;
+    color: #fff;
+    border: none;
+    border-radius: 15px;
+    position: absolute;
+    right: 12px;
+    top: 12px;
+}
+.search-section .blue-dot {
+    position: absolute;
+    right: 14%;
+    top: 200px;
+}
+
+.search-section .green-circle {
+    position: absolute;
+    right: 7%;
+    top: 302px;
+}
+
+.add-section-1 {
+    padding-bottom: 15%;
+    padding-top: 60px;
+}
+
+.add-section-1 .container-box {
+    background-color: #F2F3F5;
+    border-radius: 15px;
+    height: 500px;
+}
+
+.add-section-1 .container-box .text-area {
+    position: relative;
+}
+
+.add-section-1 .container-box .text-area .left-pointer {
+    position: absolute;
+    top: 128px;
+    left: -75px;
+}
+
+.add-section-1 .container-box .text {
+    padding: 10% 0 15% 10%;
+}
+
+.add-section-1 .container-box .text h1 {
+    font-size: 42px;
+    font-weight: bold;
+    padding-bottom: 17px;
+}
+
+.add-section-1 .container-box .text p {
+    font-size: 20px;
+    line-height: 22px;
+    padding-bottom: 40px;
+}
+
+.atc-btn {
+    padding: 10px 43px;
+    color: #fff;
+    font-size: 20px;
+    background-color: #8FC539;
+    border-radius: 8px;
+    border: none;
+    margin-right: 30px;
+}
+
+.fas-btn {
+    padding: 10px 43px;
+    color: #fff;
+    font-size: 20px;
+    border: none;
+    background-color: #17599C;
+    border-radius: 8px;
+}
+
+.add-section-1 .imgs {
+    position: relative;
+}
+
+.add-section-1 .imgs .speghetti-img {
+    border-radius: 20px;
+    margin-top: 10px;
+}
+
+.add-section-1 .green-d {
+    position: absolute;
+    right: -15%;
+    top: 2%;
+}
+
+.add-section-2 {
+    padding-bottom: 15%;
+}
+
+.add-section-2 .line-circle {
+    position: absolute;
+    top: -100px;
+}
+
+.add-section-2 .text-area {
+    position: relative;
+    margin-top: 50px;
+}
+
+.add-section-2 .text-area h1 {
+    font-size: 52px;
+    font-weight: bold;
+    margin-bottom: 12px;
+}
+
+.add-section-2 .text-area p {
+    font-size: 18px;
+
+    margin-bottom: 59px;
+}
+
+.add-section-2 .imgs {
+    position: relative;
+}
+
+.add-section-2 .imgs .design-img {
+    position: absolute;
+    right: 10%;
+    top: 70%;
+}
+
+.add-section-2 .imgs .juice-img {
+    height: 400px;
+    width: 365px;
+    border-radius: 30px;
+}
+
+.add-section-3 {
+    padding-top: 70px;
+    padding-bottom: 12%;
+}
+
+.add-section-3 .imgs {
+    position: relative;
+}
+
+.add-section-3 .imgs .design-img {
+    position: absolute;
+    bottom: -36px;
+    left: -108px;
+}
+
+.add-section-3 .imgs .burger-img {
+    height: 415px;
+    width: 450px;
+    border-radius: 30px;
+    margin-top: 50px;
+}
+
+.add-section-3 .text-area {
+    margin-top: 50px;
+}
+
+.add-section-3 .text-area h1 {
+    font-size: 52px;
+    font-weight: bold;
+    margin-bottom: 12px;
+}
+
+.add-section-3 .text-area p {
+    font-size: 18px;
+    margin-bottom: 40px;
+}
+
+.footer {
+    padding-bottom: 5%;
+}
+
+.footer ul a li {
+    list-style: none;
+}
+
+.footer ul a {
+    color: grey;
+    text-decoration: none;
+    line-height: 30px;
+    padding-bottom: 7%;
+}
+
+.footer ul {
+    padding-left: 0;
+}
+
+.footer ul a:hover {
+    color: lightskyblue;
+}
+
+.footer .footer-input {
+    width: 100%;
+    height: 60px;
+    border: none;
+    background-color: #F2F3F5;
+    border-radius: 10px;
+    padding-left: 20px;
+}
+
+.footer .atc-btn-2 {
+    padding: 15px 43px;
+    color: #fff;
+    font-size: 20px;
+    background-color: #8FC539;
+    border-radius: 15px;
+    border: none;
+    margin-right: 30px;
+}
+.footer a {
+    text-decoration: none;
+    color: grey;
+}
+
+@media screen and (max-width:991px) {
+    header {
+        padding-bottom: 60%;
+        position: relative;
+    }
+
+    header .navbar-brand {
+        padding-right: 0 !important;
+        padding-left: 0 !important;
+    }
+
+    header .nav-2 {
+        position: relative;
+        margin-left: 0 !important;
+        right: 0;
+    }
+
+    header .left-dots {
+        position: absolute;
+        left: -125px;
+        top: 10%;
+        z-index: -1;
+    }
+
+    header .triangle-shape img {
+        display: none;
+    }
+
+    header .right-dotted-circle {
+        display: none;
+    }
+
+    header .right-stair {
+        display: none;
+    }
+
+    header .egg-img-big {
+        position: absolute;
+        left: unset;
+        top: -20px;
+        z-index: -1;
+        right: 0;
+    }
+
+    header .egg-description {
+        position: absolute;
+        top: 47%;
+        left: 0;
+        z-index: -1;
+    }
+
+    header .egg-description p {
+        border-radius: 15px;
+        width: 300px;
+        background-color: #F2F3F5;
+        padding: 15px 22px 10px 140px;
+        font-size: 14px;
+        line-height: 22px;
+        font-weight: bold;
+    }
+
+    header .middle-circle img {
+        position: absolute;
+        top: 62px;
+        left: 38%;
+        z-index: -1;
+    }
+
+    .search-section {
+        padding-top: 30%;
+        position: relative;
+        padding-bottom: 140px;
+    }
+
+    .search-section .left-blue-circle {
+        display: none;
+    }
+
+    .search-section .burger-img {
+        position: relative;
+        margin-top: 50px;
+        margin-left: 40px;
+        top: 0;
+        left: 0;
+    }
+
+    .search-section .imgs .green-dot {
+        position: absolute;
+        top: -20%;
+        left: 0;
+    }
+
+    .search-section .imgs .line-circle {
+        position: absolute;
+        top: -50px;
+        z-index: 1;
+        left: 0;
+    }
+
+    .search-section .blue-dot {
+        display: none;
+    }
+
+    .search-section .green-circle {
+        position: absolute;
+        right: 5%;
+        z-index: -1;
+        top: 302px;
+    }
+
+    .search-section .search-box .btn {
+        font-size: 20px;
+        background-color: #8FC539;
+        padding: 13px 40px;
+        color: #fff;
+        border: none;
+        border-radius: 15px;
+        position: absolute;
+        right: 12px;
+        top: 12px;
+    }
+
+    .add-section-1 .container-box {
+        background-color: transparent;
+        border-radius: 15px;
+        display: table;
+        width: 100%;
+    }
+
+    .add-section-1 .green-d {
+        position: absolute;
+        right: 1%;
+        top: -5%;
+    }
+    .add-section-1 .container-box .text{
+        padding: 0;
+    }
+    .add-section-1 .container-box .text-area .left-pointer{
+        display: none;
+    }
+    .add-section-1 .container-box .text p {
+        font-size: 18px;
+    }
+    .atc-btn {
+        padding: 0;
+        color: #fff;
+        font-size: 20px;
+        background-color: #8FC539;
+        border-radius: 8px;
+        border: none;
+        margin-right: 30px;
+        width: 100%;
+        height: 50px;
+    }
+
+    .fas-btn {
+        padding: 2px;
+        color: #fff;
+        font-size: 20px;
+        border: none;
+        background-color: #17599C;
+        border-radius: 8px;
+        width: 100%;
+    }
+
+    .add-section-2 .line-circle {
+        display: none;
+    }
+    .add-section-2 .imgs .juice-img{
+        width: 100%;
+        height: fit-content;
+        border-radius: 30px;
+    }
+    .add-section-2 .text-area h1 {
+        font-size: 52px;
+        font-weight: bold;
+        margin-bottom: 12px;
+        padding-top: 80px;
+    }
+
+    .add-section-3 .imgs .burger-img {
+        border-radius: 30px;
+        width: 100%;
+        height: auto;
+    }
+
+    .add-section-3 .imgs .design-img {
+        position: absolute;
+        bottom: -80px;
+        left: 10px;
+    }
+
+    .add-section-3 .text-area {
+        margin-top: 50px;
+        padding-top: 70px;
+    }
+}
